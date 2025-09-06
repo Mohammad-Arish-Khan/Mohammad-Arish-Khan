@@ -15,8 +15,27 @@
 
 
 # 🌟 About Me:
-🔭 I’m currently working on Artificial Intelligence and Machine Learning Projects<br>👨‍💻 I’m looking to collaborate on Real World Problem Statements<br>🤝 I’m looking for help with Understanding why my code only works at 2 am<br>🎯 I’m currently learning Data Science <br>💬 Ask me about My Cars Extended Warranty<br>📬 How to reach me :  via my Email - md.arishk10@gmail.com <br>💡 Fun fact : Programming isn’t about what you know, it’s about what you can figure out.<br>🚀 Pro Tip : Read documentation instead of Stack Overflow diving.
+<p>      
+       
+- 🔭 I’m currently working on Artificial Intelligence and Machine Learning Projects<br>
+       
+- 👨‍💻 I’m looking to collaborate on Real World Problem Statements<br>
 
+- 🤝 I’m looking for help with Understanding why my code only works at 2 am<br>
+
+- 🎯 I’m currently learning Data Science <br>
+
+- 💬 Ask me about My Cars Extended Warranty<br>
+
+- 📬 How to reach me :  via my Email - md.arishk10@gmail.com <br>
+
+- 💡 Fun fact : Programming isn’t about what you know, it’s about what you can figure out.<br>
+
+- 🚀 Pro Tip : Read documentation instead of Stack Overflow diving.<br>
+
+  
+  
+</p><br>
 <img src="https://i.pinimg.com/originals/99/43/74/994374c6c7dd509cf356cc1f24b40936.gif"/>
 
 
