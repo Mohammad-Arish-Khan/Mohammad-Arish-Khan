@@ -17,21 +17,21 @@
 # 🌟 About Me:
 <p>      
        
-- 🔭 I’m currently working on Artificial Intelligence and Machine Learning Projects<br>
+- 🔭 I’m currently working on **Artificial Intelligence and Machine Learning Projects**<br>
        
-- 👨‍💻 I’m looking to collaborate on Real World Problem Statements<br>
+- 👨‍💻 I’m looking to collaborate on **Real World Problem Statements**<br>
 
-- 🤝 I’m looking for help with Understanding why my code only works at 2 am<br>
+- 🤝 I’m looking for help with **Understanding why my code only works at 2 am**<br>
 
-- 🎯 I’m currently learning Data Science <br>
+- 🎯 I’m currently learning **Data Science** <br>
 
-- 💬 Ask me about My Cars Extended Warranty<br>
+- 💬 Ask me about **My Cars Extended Warranty**<br>
 
-- 📬 How to reach me :  via my Email - md.arishk10@gmail.com <br>
+- 📬 How to reach me :  **via my Email** - md.arishk10@gmail.com <br>
 
-- 💡 Fun fact : Programming isn’t about what you know, it’s about what you can figure out.<br>
+- 💡 Fun fact : **Programming isn’t about what you know, it’s about what you can figure out**<br>
 
-- 🚀 Pro Tip : Read documentation instead of Stack Overflow diving.<br>
+- 🚀 Pro Tip : **Read documentation instead of Stack Overflow diving**<br>
 
   
   
