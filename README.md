@@ -3,16 +3,7 @@
 </h1>
 <h3 align="left">My Ability : Turning ideas into software that actually works (most of the time).</h3>
 
-
-
-
-
 ![GitHub_Hollow_Knight (2)](https://github.com/user-attachments/assets/2e4fe952-0a44-4612-936b-ca611c1a9285)
-
-
-
-
-
 
 # 🌟 About Me:
 <p>      
